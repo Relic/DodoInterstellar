@@ -1,0 +1,11 @@
+{"levels": 
+	[{
+		"id": 1,
+		"title": "test",
+		"rewindCount": 2,
+		"timeLimit": 0,
+		"gridSizeX": 32,
+		"gridSizeY": 16,
+		"background": ["forest"]
+	}]
+}

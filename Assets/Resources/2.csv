@@ -1,0 +1,11 @@
+hole;hole;hole;hole;wall;wall;wall;hole;;
+hole;hole;hole;hole;wall;exit;wall;hole;;
+hole;hole;hole;hole;wall;;wall;hole;;
+;button-3;;hole;wall;door-3;wall;hole;;
+;;;hole;wall;;wall;hole;;
+;button-2;;hole;wall;door-2;wall;hole;;
+;;;hole;wall;;wall;hole;;
+;button-1;;hole;wall;door-1;wall;hole;;
+;;;hole;;;;hole;;
+;start;;;;;;hole;;
+;;;hole;;;;;;

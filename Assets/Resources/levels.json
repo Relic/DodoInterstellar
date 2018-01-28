@@ -1,0 +1,52 @@
+{"levels": 
+	[{
+		"id": 0,
+		"title": "Reach the Exit",
+		"introText": "IN THE ATTEMPT TO CREATE WYRMHOLES SCIENTISTS HAVE SHATTERED THE INTERNET INTO PIECES. LEFT WITHOUT ANY MEANS OF COMMUNICATION THE GALACTIC FEDERATION MUST RELY ON THE ONLY SPECIES CAPABLE OF SURVIVING IN SPACE: DODO INTERSTELLAR",
+		"rewindCount": 0,
+		"timeLimit": 0,
+		"gridSizeX": 10,
+		"gridSizeY": 3,
+		"background": ["bg_galaxy_round", "bg_planet_ring", "bg_planet_round", "bg_planet_ring"]
+	},
+	{
+		"id": 1,
+		"title": "Push the Button",
+		"introText": "DODO INTERSTELLAR IS PERFECTLY ADAPTED TO LIVE IN SPACE: THEY CAN CONJURE PHANTOMS BY CHANNELING THE INTERSTELLAR ENERGY. THESE PHANTOMS CAN WALK THROUGH SPACE AND TIME.",
+		"rewindCount": 2,
+		"timeLimit": 0,
+		"gridSizeX": 10,
+		"gridSizeY": 8,
+		"background": ["bg_galaxy_spiral", "bg_planet_ring", "bg_planet_ring"]
+	},
+	{
+		"id": 2,
+		"title": "All the Buttons",
+		"introText": "THE DODOS ARE REMARKABLY SMART CREATURE. SCIENTISTS SAY, THEY COULD SPEAK, BUT ARE SMART ENOUGH NOT TO. BUT EVERY HERO NEEDS A SIDEKICK: HELP THE DODO TO COMPLETE THE DELIVERY!",
+		"rewindCount": 2,
+		"timeLimit": 0,
+		"gridSizeX": 8,
+		"gridSizeY": 11,
+		"background": ["bg_galaxy_round", "bg_planet_ring"]
+	},
+	{
+		"id": 3,
+		"title": "Repeat Yourself",
+		"introText": "THIS IS THE DODO’S BIG TEST. IF THE DODO PASSES, THE DODO WILL BE ASSIGNED A VERY IMPORTANT DELIVERY JOB, WHICH WILL LEAVE THE DODO FINANCIALLY STABLE. THE DODO PLANS ON RETIRING AFTER THAT LAST BIG JOB ON A BEAUTIFUL SANDY BEACH. HELP HIM TO ACHIEVE HIS DREAMS!",
+		"rewindCount": 2,
+		"timeLimit": 0,
+		"gridSizeX": 10,
+		"gridSizeY": 11,
+		"background": ["bg_planet_round"]
+	},
+	{
+		"id": 4,
+		"title": "PORTALS!!",
+		"introText": "HELP THE DODO TO DELIVER THE PARCEL FROM ONE END OF THE UNIVERSE TO THE OTHER SO THE SCIENTISTS CAN TRY TO PIECE THE INTERNET BACK TOGETHER!",
+		"rewindCount": 2,
+		"timeLimit": 0,
+		"gridSizeX": 9,
+		"gridSizeY": 11,
+		"background": ["bg_galaxy_spiral", "bg_galaxy_round", "bg_planet_round", "bg_planet_ring", "bg_planet_ring"]
+	}]
+}
